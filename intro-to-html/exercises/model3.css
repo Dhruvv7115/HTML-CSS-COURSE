@@ -1,0 +1,23 @@
+p {
+  font-family: Montserrat;
+}
+.first-line{
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 0px;
+}
+.second-line{
+  text-align: center;
+  font-size: 20px;
+  margin-top: 0;
+}
+.lol{
+  color: black;
+  text-decoration: underline;
+}
+.lol:hover{
+  cursor: pointer;
+  color: blue;
+}
